@@ -804,6 +804,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.services {
+  background-color: #e9e8e6;
+}
+
 .services .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
@@ -1282,4 +1286,11 @@ section {
 
 #footer .credits a {
   color: #34b7a7;
+}
+
+#footertag {
+  color: #5c5c5c;
+  font-size: 12px;
+  float: right;
+  margin-top: 7px;
 }
